@@ -67,11 +67,13 @@ h1 {
 .south::before {
     content: "S";
     padding: 4px 10px;
+    background-image: linear-gradient(to right, #4e5de6, #6b8bdd);
 }
 
 .north::before {
     content: "N";
     padding: 4px 9px;
+    background-image: linear-gradient(to right, #e64e83, #dd706b);
 }
 
 .north::before,
@@ -79,7 +81,6 @@ h1 {
     position: absolute;
     font-size: 20px;
     color: white;
-    background-image: linear-gradient(to right, #e64e83, #dd706b);
     border: 2px solid #111;
     border-radius: 50%;
     translate: 16px 16px;
