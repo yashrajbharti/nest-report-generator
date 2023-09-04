@@ -158,3 +158,10 @@ let buildUI = (genData, genName) => {
     ui.append(span);
   }
 };
+
+document.addEventListener("click", function (e) {
+  const target = e.target.closest(".sparkles"); // Or any other selector.
+  if (target) {
+    target.style.display = "none";
+  }
+});

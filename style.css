@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Barlow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Barlow&display=swap');
 
 * {
     margin: 0;
@@ -10,6 +10,10 @@ body {
     background-color: #212121;
     font-family: "Barlow", sans-serif;
     font-weight: 800;
+}
+
+body .gen {
+    margin: 30px;
 }
 
 h1 {
@@ -29,4 +33,40 @@ h1 {
     position: absolute;
     font-size: 30px;
     color: white;
+}
+
+.gen {
+    width: 1600px;
+    background-color: #1f1a1acc;
+    border: 2px solid #111;
+    margin: 0 auto;
+    border-radius: 20px;
+    -webkit-backdrop-filter: blur(100px);
+    backdrop-filter: blur(100px);
+}
+
+.gen .genImage {
+    width: 90px;
+    height: auto;
+    margin: 10px 0 30px 30px;
+}
+
+.gen .sparkles {
+    position: absolute;
+    width: 30px;
+    translate: -20px 20px;
+    cursor: pointer;
+}
+
+.gen .sparkles:hover {
+    opacity: 0.5;
+}
+
+.genTitle {
+    color: #fafffd;
+    background-color: #111;
+    width: max-content;
+    padding: 10px;
+    font-size: 28px;
+    border-radius: 15px 0 15px 0;
 }
