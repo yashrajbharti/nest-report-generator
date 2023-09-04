@@ -120,15 +120,35 @@ let buildGeneration = (allGen) => {
       )
     );
 
-  buildKanto(gen1);
+  buildUI(gen5, "gen5");
 };
 
-let buildKanto = (gen1) => {
-  if (gen1[1] === undefined) return;
-  let ui = document.getElementById("gen1");
+let buildUI = (genData, genName) => {
+  if (genData[1] === undefined) return;
+  let ui = document.getElementById(genName);
   let h1 = document.createElement("h1");
-  h1.textContent = gen1[0];
+  ui.append(h1);
+  h1.textContent = genData[0];
   h1.classList.add("genTitle");
-  for (item of gen1[1]) {
+
+  for (item of genData[1]) {
+    let img = document.createElement("img");
+    img.classList.add("genImage");
+
+    if (item.includes("Northern")) img.classList.add("north");
+    if (item.includes("Southern")) img.classList.add("south");
+
+    let species = item.split("(")[0].trim();
+
+    species = species.replace(/F$/g, "-f");
+    species = species.replace(/M$/g, "-m");
+    species = species.replace(/ /g, "-");
+    species = species.replace(/\./g, "");
+    species = species.toLowerCase();
+
+    console.log(item, species);
+    img.src = `https://img.pokemondb.net/sprites/home/normal/${species}.png`;
+
+    ui.append(img);
   }
 };

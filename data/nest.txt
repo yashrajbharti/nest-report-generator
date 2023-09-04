@@ -63,7 +63,7 @@ Gen 5
 Snivy :495_n: (Southern Hemisphere)
 Tepig :498_n: (Southern Hemisphere)
 Oshawott :501_n: (Southern Hemisphere)
-Lilipup :506_n: 
+Lillipup :506_n: 
 Pidove :519_n: 
 Woobat :527_n: 
 Drilbur :529_n: 
