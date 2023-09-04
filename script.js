@@ -120,15 +120,15 @@ let buildGeneration = (allGen) => {
       )
     );
 
-  // buildUI(gen1, "gen1");
-  // buildUI(gen2, "gen2");
-  // buildUI(gen3, "gen3");
-  // buildUI(gen4, "gen4");
-  // buildUI(gen5, "gen5");
+  buildUI(gen1, "gen1");
+  buildUI(gen2, "gen2");
+  buildUI(gen3, "gen3");
+  buildUI(gen4, "gen4");
+  buildUI(gen5, "gen5");
   buildUI(gen6, "gen6");
   buildUI(gen7, "gen7");
-  // buildUI(gen8, "gen8");
-  // buildUI(gen9, "gen9");
+  buildUI(gen8, "gen8");
+  buildUI(gen9, "gen9");
 };
 
 let buildUI = (genData, genName) => {

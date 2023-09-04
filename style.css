@@ -64,6 +64,14 @@ h1 {
     margin-top: 20px;
 }
 
+ul li {
+    color: #fafffd;
+    font-weight: lighter;
+    margin-top: 10px;
+    margin-left: 60px;
+    list-style-type: circle;
+}
+
 .south::before {
     content: "S";
     padding: 4px 10px;
