@@ -172,4 +172,8 @@ document.addEventListener("click", function (e) {
   if (target) {
     target.style.display = "none";
   }
+  const download = e.target.closest(".genTitle");
+  if (download) {
+    alert("hey");
+  }
 });
