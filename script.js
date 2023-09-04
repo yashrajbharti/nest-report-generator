@@ -172,6 +172,10 @@ document.addEventListener("click", function (e) {
   if (target) {
     target.style.display = "none";
   }
+  const scaleUp = e.target.closest(".genImage");
+  if (scaleUp) {
+    scaleUp.style.scale = 1.3;
+  }
   const download = e.target.closest(".genTitle");
   if (download) {
     alert("hey");

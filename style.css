@@ -37,6 +37,7 @@ h1 {
     width: 90px;
     height: auto;
     margin: 10px 20px 30px 30px;
+    cursor: pointer;
 }
 
 .gen .sparkles {
@@ -93,4 +94,5 @@ ul li {
     border: 2px solid #111;
     border-radius: 50%;
     translate: 16px 16px;
+    z-index: 2;
 }
