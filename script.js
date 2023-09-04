@@ -120,7 +120,7 @@ let buildGeneration = (allGen) => {
       )
     );
 
-  buildUI(gen5, "gen5");
+  buildUI(gen1, "gen1");
 };
 
 let buildUI = (genData, genName) => {
