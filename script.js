@@ -120,5 +120,15 @@ let buildGeneration = (allGen) => {
       )
     );
 
-  console.log(allGen);
+  buildKanto(gen1);
+};
+
+let buildKanto = (gen1) => {
+  if (gen1[1] === undefined) return;
+  let ui = document.getElementById("gen1");
+  let h1 = document.createElement("h1");
+  h1.textContent = gen1[0];
+  h1.classList.add("genTitle");
+  for (item of gen1[1]) {
+  }
 };
