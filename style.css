@@ -22,22 +22,9 @@ h1 {
     font-weight: 800;
 }
 
-.south::before {
-    content: "S";
-    position: absolute;
-    font-size: 30px;
-    color: white;
-}
-
-.north::before {
-    content: "N";
-    position: absolute;
-    font-size: 30px;
-    color: white;
-}
 
 .gen {
-    width: 1600px;
+    width: 1580px;
     background-color: #1f1a1acc;
     border: 2px solid #111;
     margin: 0 auto;
@@ -49,7 +36,7 @@ h1 {
 .gen .genImage {
     width: 90px;
     height: auto;
-    margin: 10px 0 30px 30px;
+    margin: 10px 20px 30px 30px;
 }
 
 .gen .sparkles {
@@ -70,4 +57,29 @@ h1 {
     padding: 10px;
     font-size: 28px;
     border-radius: 15px 0 15px 0;
+}
+
+.logo {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.south::before {
+    content: "S";
+    padding: 4px 10px;
+}
+
+.north::before {
+    content: "N";
+    padding: 4px 9px;
+}
+
+.north::before,
+.south::before {
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    background-color: #111;
+    border-radius: 50%;
+    translate: 16px 16px;
 }
