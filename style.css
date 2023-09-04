@@ -7,3 +7,17 @@
 body {
     background-color: #212121;
 }
+
+.south::after {
+    content: "S";
+    position: absolute;
+    font-size: 30px;
+    color: white;
+}
+
+.north::after {
+    content: "N";
+    position: absolute;
+    font-size: 30px;
+    color: white;
+}
