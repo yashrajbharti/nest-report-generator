@@ -179,6 +179,22 @@ document.addEventListener("click", function (e) {
   }
   const download = e.target.closest(".genTitle");
   if (download) {
-    alert("hey");
+    printToFile(download.closest(".gen"));
   }
 });
+
+const downloadURI = (uri, name) => {
+  let link = document.createElement("a");
+  link.download = name;
+  link.href = uri;
+  link.click();
+};
+
+const printToFile = (div) => {
+  html2canvas(div, {
+    onrendered: (canvas) => {
+      let image = canvas.toDataURL("image/png");
+      downloadURI("data:" + image, "nest.png");
+    },
+  });
+};
