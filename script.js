@@ -22,6 +22,7 @@ let buildArray = (text) => {
   for (let item of rawArray) {
     questArray.push(item.replace(/:.*:/, "").trim());
   }
+  questArray.push(" ");
   buildGeneration(questArray);
 };
 
