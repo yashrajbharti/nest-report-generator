@@ -179,6 +179,6 @@ document.addEventListener("click", function (e) {
   }
   const download = e.target.closest(".genTitle");
   if (download) {
-    alert("hey");
+    console.log("pending");
   }
 });
