@@ -136,10 +136,10 @@ let buildUI = (genData, genName) => {
     let shinyIcon = document.createElement("img");
     img.classList.add("genImage");
     shinyIcon.classList.add("sparkles");
-    let div = document.createElement("div");
-    div.classList.add("pokemonContainer");
-    if (item.includes("Northern")) div.classList.add("north");
-    if (item.includes("Southern")) div.classList.add("south");
+    let span = document.createElement("span");
+    span.classList.add("pokemonContainer");
+    if (item.includes("Northern")) span.classList.add("north");
+    if (item.includes("Southern")) span.classList.add("south");
 
     let species = item.split("(")[0].trim();
 
@@ -153,8 +153,8 @@ let buildUI = (genData, genName) => {
     shinyIcon.src = `./images/shiny.png`;
     img.src = `https://img.pokemondb.net/sprites/home/normal/${species}.png`;
 
-    div.append(img);
-    div.append(shinyIcon);
-    ui.append(div);
+    span.append(img);
+    span.append(shinyIcon);
+    ui.append(span);
   }
 };
