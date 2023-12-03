@@ -88,3 +88,13 @@ Gen 7
 Dewpider :751_n: 
 Fomantis :753_n: 
 Wimpod :767_n:
+
+Gen 8
+Skwovet :819_n: (Southern Hemisphere)
+
+Gen 8.5
+Kleavor
+
+Gen 9
+Wooper Paldean
+

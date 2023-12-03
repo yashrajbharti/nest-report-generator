@@ -35,6 +35,7 @@ Generation 5 – Unova – 156 New Pokémon
 Generation 6 – Kalos – 72 New Pokémon
 Generation 7 – Alola – 88 New Pokémon
 Generation 8 – Galar – 96 New Pokémon
+Generation 8.5 - Hisui - 17 New Pokémon
 Generation 9 – Paldea – 103 New Pokémon
 */
 
@@ -46,6 +47,7 @@ let gen5 = ["Unova"];
 let gen6 = ["Kalos"];
 let gen7 = ["Alola"];
 let gen8 = ["Galar"];
+let gen8_5 = ["Hisui"];
 let gen9 = ["Paldea"];
 
 let buildGeneration = (allGen) => {
@@ -113,6 +115,14 @@ let buildGeneration = (allGen) => {
       )
     );
   allGen[allGen.findIndex((item) => item === "")] = "#";
+  if (allGen.find((item) => item === "Gen 8.5"))
+    gen8_5.push(
+      allGen.slice(
+        allGen.findIndex((item) => item === "Gen 8.5") + 1,
+        allGen.findIndex((item) => item === "")
+      )
+    );
+  allGen[allGen.findIndex((item) => item === "")] = "#";
   if (allGen.find((item) => item === "Gen 9"))
     gen9.push(
       allGen.slice(
@@ -129,6 +139,7 @@ let buildGeneration = (allGen) => {
   buildUI(gen6, "gen6");
   buildUI(gen7, "gen7");
   buildUI(gen8, "gen8");
+  buildUI(gen8_5, "gen8.5");
   buildUI(gen9, "gen9");
 };
 
