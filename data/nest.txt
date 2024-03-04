@@ -31,6 +31,7 @@ Shuppet :353_n:
 Gen 4
 Bidoof :399_n: 
 Cherrim :421_n:
+Cherrim-Sunshine :421_n:
 Buneary :427_n: 
 Glameow :431_n: 
 Hippopotas :449_n:
