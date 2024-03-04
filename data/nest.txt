@@ -1,81 +1,71 @@
-Species List For Timeless Travels
+Species List For Season of Wonders
 
 Gen 1
-Spearow :21_n: (Southern Hemisphere)
-Vulpix :37_n: 
-Zubat :41_n: 
-Oddish :43_n: 
-Paras :46_n: 
-Meowth :52_n: 
-Bellsprout :69_n: (Southern Hemisphere)
-Seel :86_n: 
-Shellder :90_n: 
-Krabby :98_n: 
-Koffing :109_n: 
-Scyther :123_n: 
-Eevee :133_n: 
+Pikachu
 
 Gen 2
-Sentret :161_n: 
-Hoothoot :163_n: 
-Chinchou :170_n: 
-Marill :183_n: 
-Hoppip :187_n: 
-Wobbuffet :202_n: 
-Swinub :220_n: (Northern Hemisphere)
+Chikorita :152_n: (Southern Hemisphere)
+Cyndaquil :155_n: (Southern Hemisphere)
+Totodile :158_n: (Southern Hemisphere)
+Hoothoot :163_n: (Southern Hemisphere)
+Mareep :179_n:
+Sudowoodo :185_n:
+Yanma :193_n: 
+Murkrow :198_n:
+Misdreavus :200_n:
+Phanpy :231_n:
 
 Gen 3
-Treecko :252_n: (Southern Hemisphere)
-Torchic :255_n: (Southern Hemisphere)
-Mudkip :258_n: (Southern Hemisphere)
-Zigzagoon :263_n: 
-Lotad :270_n: 
 Seedot :273_n: 
-Taillow :276_n: (Northern Hemisphere)
-Ralts :280_n: 
-Shroomish :285_n: 
-Whismur :293_n: 
-Aron :304_n: 
-Gulpin :316_n: 
-Numel :322_n: 
-Snorunt :361_n: 
-Spheal :363_n: 
+Slakoth :287_n: (Southern Hemisphere)
+Nincada :290_n:
+Whismur :293_n: (Northern Hemisphere)
+Makuhita :296_n: 
+Skitty :300_n: 
+Electrike :309_n: (Southern Hemisphere)
+Trapinch :328_n:
+Swablu :333_n: (Northern Hemisphere)
+Corphish :341_n: 
+Shuppet :353_n:
 
 Gen 4
-Bronzor :436_n: 
-Skorupi :451_n: 
+Bidoof :399_n: 
+Cherrim :421_n:
+Buneary :427_n: 
+Glameow :431_n: 
+Hippopotas :449_n:
 
 Gen 5
-Patrat :504_n: 
-Lillipup :506_n: 
-Purrloin :509_n: 
-Roggenrola :524_n: 
-Sewaddle :540_n: 
-Venipede :543_n: (Southern Hemisphere)
-Dwebble :557_n: 
-Solosis :577_n: 
-Vanillite :582_n:
-Deerling Winter :585W_n:  (Northern Hemisphere)
-Deerling Summer :585S_n: (Southern Hemisphere)
-Foongus :590_n: (Northern Hemisphere)
-Joltik :595_n: 
-Elgyem :605_n: 
-Cubchoo :613_n:
-Golett :622_n:
+Snivy :495_n: (Northern Hemisphere)
+Tepig :498_n: (Northern Hemisphere)
+Oshawott :501_n: (Northern Hemisphere)
+Herdier :507_n:
+Pidove :519_n:
+Blitzle :522_n: 
+Woobat :527_n: 
+Drilbur :529_n:
+Audino :531_n: 
+Tympole :535_n: 
+Darumaka :554_n:(Northern Hemisphere)
+Ducklett :580_n:(Northern Hemisphere)
+Deerling-Spring :585SP_n: (Northern Hemisphere)
+Deerling-Autumn :585FL_n: (Southern Hemisphere)
+Tynamo :602_n: (Southern Hemisphere)
+Stunfisk :618_n:
+Rufflet :627_n: (Southern Hemisphere)
 
 Gen 6
-Chespin :650_n: (Northern Hemisphere)
-Fennekin :653_n: (Northern Hemisphere)
-Froakie :656_n: (Northern Hemisphere)
-Spritzee :682_n: 
-Swirlix :684_n: 
+Litleo :667_n: (Northern Hemisphere)
+Binacle :688_n:
+Dedenne :702_n:
 
 Gen 7
+Pikipek :731_n: 
+Yungoos :734_n:
 Grubbin :736_n: 
-Crabrawler :739_n:
-Dewpider :751_n: (Northern Hemisphere)
-Morelull :755_n:
-Wimpod :767_n: 
+Cutiefly :742_n:
 
 Gen 9
-Nymble :919_n:
+Lechonk :915_n:
+Nymble :919_n: 
+Smoliv :928_n:
