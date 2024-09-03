@@ -1,76 +1,90 @@
-Species List for Shared Skies
+Species List for Max Out
 
 Gen 1
-Caterpie :10_n: 
-Spearow :21_n: 
-Jigglypuff :39: 
-Paras :46_n: 
-Psyduck :54: 
-Goldeen :118: 
+Voltorb-Hisuian :100_hisuian:  (Southern Hemisphere)
 
 Gen 2
+Chikorita :152_n: (Northern Hemisphere)
+Cyndaquil :155_n: (Northern Hemisphere)
+Totodile :158_n: (Northern Hemisphere)
 Sentret :161_n: 
-Spinarak :167: 
-Marill :183_n: 
+Hoothoot :163_n: (Northern Hemisphere)
+Ledyba :165_n: 
+Natu :177_n: 
 Sudowoodo :185_n: 
-Aipom :190: 
 Sunkern :191_n: 
-Yanma :193_n: 
-Dunsparce :206: (Southern Hemisphere)
-Qwilfish :211: (Northern Hemisphere)
+Wooper :194_n: 
+Wooper-Paldean :wooperpaldea: 
+Pineco :204_n: (Northern Hemisphere)
+Gligar :207_n: 
+Qwilfish-Hisuian :qwilfishhisui: (Northern Hemisphere)
+Shuckle :213_n: 
+Slugma :218_n: (Northern Hemisphere)
 
 Gen 3
-Treecko :252_n: (Northern Hemisphere)
-Torchic :255_n: (Northern Hemisphere)
-Mudkip :258_n: (Northern Hemisphere)
-Poochyena :261_n: (Southern Hemisphere)
-Zigzagoon :263_n: 
-Wurmple :265_n: 
-Lotad :270_n: (Northern Hemisphere)
-Seedot :273_n: 
-Wingull :278_n: (Northern Hemisphere)
-Nincada :290_n: 
-Whismur :293_n: (Southern Hemisphere)
-Gulpin :316_n: 
-Carvanha :318_n:(Northern Hemisphere)
-Spoink :325_n: (Southern Hemisphere)
-Duskull :355:
+Poochyena :261_n: 
+Lotad :270_n: (Southern Hemisphere)
+Seedot :273_n: (Northern Hemisphere)
+Taillow :276_n: 
+Ralts :280_n: (Northern Hemisphere)
+Shroomish :285_n: 
+Wingull :278_n: 
+Whismur :293_n: 
+Aron :304_n: 
+Plusle :311_n: 
+Minun :312_n: 
+Spoink :325_n: 
+Swablu :333_n: 
+Lileep :345: 
+Anorith :347_n: 
+Feebas :349_n: (Southern Hemisphere)
 
 Gen 4
-Turtwig :387_n: (Southern Hemisphere)
-Chimchar :390_n: (Southern Hemisphere)
-Piplup :393_n: (Southern Hemisphere)
-Bidoof :399_n: (Northern Hemisphere)
-Shinx :403_n:  (Southern Hemisphere)
+Starly :396_n: 
+Burmy :412_plant: 
+Burmy-sandy :412_sandy: 
+Burmy-trash :412_trash: 
+Buizel :418_n: 
+Cherubi :420_n: 
 Buneary :427_n: 
-Stunky :434_n: (Southern Hemisphere)
+Finneon :456_n:  (Southern Hemisphere)
 
 Gen 5
-Patrat :504_n: 
+Snivy :495_n: (Southern Hemisphere)
+Tepig :498_n: (Southern Hemisphere)
+Oshawott :501_n: (Southern Hemisphere)
+Lillipup :506_n: 
 Pidove :519_n: 
-Blitzle :522_n: (Southern Hemisphere)
-Audino :531_n: 
-Sewaddle :540_n: (Northern Hemisphere)
-Venipede :543_n: 
-Petilil :548_n: (Northern Hemisphere)
-Deerling-Winter :585SP_n: (Southern Hemisphere)
-Deerling-Summer :585SP_n: (Northern Hemisphere)
+Roggenrola :524_n: 
+Woobat :527_n: 
+Drilbur :529_n: 
+Sewaddle :540_n: (Southern Hemisphere)
+Cottonee :546_n: (Northern Hemisphere)
+Petilil :548_n: (Southern Hemisphere)
+Dwebble :557_n: 
+Minccino :572_n: 
+Deerling-autumn (Autumn) :585_autumn: (Northern Hemisphere)
+Deerling-spring (Spring)  :585_spring: (Southern Hemisphere)
+Karrablast :588_n: (Southern Hemisphere)
+Foongus :590_n: (Southern Hemisphere)
 Joltik :595_n: 
+Shelmet :616_n: (Northern Hemisphere)
 
 Gen 6
-Bunnelby :659_n: 
-Fletchling :661_n: 
-Spritzee :682_n:
-Swirlix :684_n:
-Tyrunt :696_n: (Northern Hemisphere)
-Amaura :698_n: (Southern Hemisphere)
+Litleo :667_n: (Southern Hemisphere)
+Inkay :686_n: 
+Dedenne :702_n: (Southern Hemisphere)
+Noibat :714_n: 
 
 Gen 7
-Pikipek :731_n: 
-Cutiefly :742_n:
-Fomantis :753_n:
-Bounsweet :761_n:
+Yungoos :734_n: 
+Cutiefly :742_n: 
+Dewpider :751_n: 
+Morelull :755_n: (Northern Hemisphere)
+Togedemaru :777_n: (Northern Hemisphere)
 
-Gen 9
-Nymble :919_n: 
-Smoliv :928_n:
+Gen 8
+Grookey :810_n: 
+Scorbunny :813_n: 
+Sobble :816_n: 
+Wooloo :831_n:
