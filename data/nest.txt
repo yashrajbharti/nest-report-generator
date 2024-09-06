@@ -23,6 +23,7 @@ Slugma :218_n: (Northern Hemisphere)
 
 Gen 3
 Poochyena :261_n: 
+Wurmple :265_n: 
 Lotad :270_n: (Southern Hemisphere)
 Seedot :273_n: (Northern Hemisphere)
 Taillow :276_n: 
@@ -53,6 +54,7 @@ Gen 5
 Snivy :495_n: (Southern Hemisphere)
 Tepig :498_n: (Southern Hemisphere)
 Oshawott :501_n: (Southern Hemisphere)
+Patrat :504_n:
 Lillipup :506_n: 
 Pidove :519_n: 
 Roggenrola :524_n: 
@@ -81,6 +83,7 @@ Yungoos :734_n:
 Cutiefly :742_n: 
 Dewpider :751_n: 
 Morelull :755_n: (Northern Hemisphere)
+Bounsweet :761_n:
 Togedemaru :777_n: (Northern Hemisphere)
 
 Gen 8
